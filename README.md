@@ -14,4 +14,4 @@ Started at Astro Hack Week NYC, September 2015.
 * Carolina Nunez 
 * Mario Bonamigo
 
-This is research in progress! If you make use of any of the ideas here in your own research, please do get in touch, and cite this repository. All code is available for re-use under the MIT license.
+This is research in progress! If you make use of any of the ideas here in your own research, please do [get in touch](https://github.com/thalesada/MLHaloFinder/issues), and cite this repository. All code is available for re-use under the MIT license.
